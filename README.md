@@ -5,8 +5,8 @@
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
-$ cd fbi
+$ git clone https://github.com/mrvanonmus/Syrian-Electronic-Army.git
+$ cd Syrian-Electronic-Army
 ```
 
 # [ بعدين ]
@@ -15,5 +15,5 @@ $ pip2 install -r requirements.txt
 ```
 # [ التشغيل ]
 ```
-$ python2 fbi.py
+$ python2 SEA.py
 ```
