@@ -11,7 +11,7 @@ $ cd Syrian-Electronic-Army
 
 # [ بعدين ]
 ```
-$ pip2 install -r requirements.txt
+$ pip2 install -r Needs.txt 
 ```
 # [ التشغيل ]
 ```
